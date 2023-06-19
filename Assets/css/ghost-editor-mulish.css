@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+.koenig-lexical .kg-prose :where(p,blockquote,aside,ul,ol):not(:where(.not-kg-prose,[class~="not-kg-prose"] *)) {
+    font-family: 'Mulish', serif;
+}
